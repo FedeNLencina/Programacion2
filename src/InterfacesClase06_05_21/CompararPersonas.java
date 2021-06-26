@@ -6,6 +6,7 @@ import java.util.TreeSet;
 
 public class CompararPersonas {
 
+	
 	public static void main(String arg[]) {
 		
 //		Set<Persona> conj = new HashSet<Persona>();
@@ -47,6 +48,9 @@ public class CompararPersonas {
 		lista.agregar(p3);
 		lista.agregar(new Persona(99888777,"XXX"));
 		System.out.println(lista);
+		
+		
+		
 	}
 
 }
